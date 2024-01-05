@@ -10,7 +10,7 @@ function App() {
           width="100%"
           height="5000"
           seamless
-          src="https://superset.p.niva.no/superset/dashboard/multisource/?standalone=true"
+          src="https://superset.t.niva.no/superset/dashboard/46/?standalone=true"
         >
           Not supported
         </iframe>
